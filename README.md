@@ -30,7 +30,7 @@
 - 苦労した点
   - Google OAuthの実装, RSpec
 
-  - JavaScriptを使った実装(複数画像のプレビュー,raty.jsを使った星の実装、railsとjavascript間でデータを受け渡しの処理, 複数画像スライドショーの実装)
+  - JavaScriptを使った実装(複数画像のプレビュー,raty.jsを使った星の実装、railsとjavascript 間でデータを受け渡しの処理, 複数画像スライドショーの実装)
 
   - 要件定義
 
@@ -57,7 +57,7 @@
 
 3. Sharing a Cup 
 
-|  制作時期 |  2019年1月 |
+|  制作時期 |  2019年8月 |
   ----|---- 
   | GitHub |  [リポジトリリンク](https://github.com/TakayaSugiyama/sharing_a_cup)|
 
